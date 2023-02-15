@@ -1,2 +1,4 @@
 # Learn-Project-chess1
-Chess Boadr (posibly ai )
+Chess Boadr (posibly ai 
+<void CreateGraphicalBoard () 
+{
